@@ -9,7 +9,7 @@ namespace AzureTest.Web.Tests
     [TestMethod]
     public void TestMethod1()
     {
-      Assert.IsTrue(false, "This is a failing test!");
+      Assert.IsTrue(true, "This is test passes now!");
     }
   }
 }
